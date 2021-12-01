@@ -1,5 +1,5 @@
 {
-  "name": "pet-adoption-react-starter",
+  "name": "pet-adoption-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,6 +24,9 @@
       "react-app",
       "react-app/jest"
     ]
+  },
+  "engines": {
+    "node": "16.9.1"
   },
   "browserslist": {
     "production": [
